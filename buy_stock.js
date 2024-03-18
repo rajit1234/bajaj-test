@@ -25,6 +25,6 @@ async function buyStocks(accountNumber, company, currentPrice, githubRepoLink) {
 const accountNumber = '123456'; 
 const company = 'Bajaj finserv'; 
 const currentPrice = 6255;
-const githubRepoLink = 'https://github.com/rajit1234';
+const githubRepoLink = 'https://github.com/rajit1234/bajaj-test';
 
 buyStocks(accountNumber, company, currentPrice, githubRepoLink);
